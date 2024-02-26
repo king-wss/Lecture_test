@@ -1,15 +1,3 @@
-## Clone code 
-
-```shell
-git clone --recurse-submodules https://github.com/pskcci/intel-01.git
-```
-
-* `--recurse-submodules` option 없이 clone 한 경우, 아래를 통해 submodule update
-
-```shell
-git submodule update --init --recursive
-```
-
 ## 환경설정
 
 * [Ubuntu](./doc/environment/ubuntu.md)
