@@ -34,7 +34,7 @@ git submodule update --init --recursive
 4) 강사가 생성한 Milestone에 생성된 Issue에 추가
 
 ### 평가방법
-* assessment-criteria.pdf 참고
+* AI관련주제/발표의적정성/결과물의 완성도
 * 제출현황
 * Team: 뭔가 센스있는 팀명
 * <프로젝트 요약>
