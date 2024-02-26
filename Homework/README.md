@@ -1,22 +1,21 @@
-# Class 01
+# Class
 
-* AI (Train / Inference) & OpenVINO 강의 및 실습
+* AI 강의 및 실습
 
 ## Homework
 
 ### 제출방법
 
-1. 과제 제출을 위해 `인텔교육 1기 Github repository`에서 `New Issue` 생성
+1. 과제 제출을 위해 `Github repository`에서 `New Issue` 생성
 
 2. 강사가 생성한 `Milestone`에 생성된 Issue에 추가 
 
-3. `class01/homework`내 본인 `영문이름`으로 되어 있는 디렉토리내에 `hw1`, `hw2`, `hw3`, `hw4` 중 하나의 디렉토리 생성
+3. `/homework`내 본인 `영문이름`으로 되어 있는 디렉토리내에 `hw1`, `hw2`, `hw3`, `hw4` 중 하나의 디렉토리 생성
 
     Example)
     ```
-    ./class01
-    └── homework
-        └── KimYoungHee
+    ./homework
+        └── HongGilDong
             ├── hw1
             ├── hw2
             └── hw3
@@ -34,30 +33,29 @@
 * HW#1 :
 * HW#2 :
 * HW#3 :
-* HW#4 : https://github.com/pskcci/intel-01/issues/174
-* HW#5 : https://github.com/pskcci/intel-01/issues/189
-
-| 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Reviwer | HW#4 | HW#5 | Reviewer |
-|-------------------------------|---------|------|------|------|---------|------|------|----------|
-| 01 Leesongwon(Songwon93) | n/a | - | - | - | litcoder | O | - | J-WBaek | 
-| 02 Joyeju (coco-mango) | n/a | - | - | - | litcoder | O | - | J-WBaek |
-| 03 SongSiKyeong (sika7492) | n/a | - | - | - | litcoder | O | - | J-WBaek |
-| 04 KimYongJe (synsan123) | n/a | - | - | - | litcoder | O | - | J-WBaek |
-| 05 LeeKyeungJun (rudwns04) | n/a | - | - | - | litcoder | O | - | J-WBaek |
-| 06 KimHoJoon (elddy0948) | n/a | - | - | - | litcoder | O | - | J-WBaek |
-| 07 KamDaGong (bluenight12) | n/a | - | - | - | litcoder | O | - | J-WBaek |
-| 08 KimBoRam (brkim92) | n/a | - | - | - | litcoder | O | - | J-WBaek |
-| 09 CHoiAYeong (ayeong3000) | n/a | - | - | - | litcoder | O | - | J-WBaek |
-| 10 ShinEunSang (dmstkd537) | n/a | - | - | - | litcoder | O | - | J-WBaek |
-| 11 LeeJeongHwan (founion) | n/a | - | - | - | litcoder | O | - | J-WBaek |
-| 12 LeeJungSeop (agroidmk2) | n/a | - | - | - | litcoder | O | - | J-WBaek |
-| 13 GongByeongHyeon (Mazogorath) | n/a | - | - | - | litcoder | O | - | J-WBaek |
-| 14 ParkSeongWon (Melody230427) | n/a | - | - | - | litcoder | - | - | J-WBaek |
-| 15 KimYuKyoung (kyukyoung) | n/a | - | - | - | litcoder | O | - | J-WBaek |
-| 16 CheonHoJin (StarTTearS) | n/a | - | - | - | litcoder | O | - | J-WBaek |
 
 
-### Mini Projects
+| 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Reviwer | 
+|-------------------------------|---------|------|------|------|---------|
+| 01 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 02 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 03 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 04 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 05 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 06 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 07 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 08 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 09 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 10 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 11 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 12 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 13 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 14 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 15 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 16 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+
+
+### Projects
 
 * Team x:
 * Team y:
