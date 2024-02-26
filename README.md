@@ -25,19 +25,19 @@ git submodule update --init --recursive
 
 3) 과제 제출시  Github repository에 New Issue 생성. 생성된 Issue에 하기 내용 포함되어야 함.
 
-Team name : Project Name
-Project 소개
-팀원 및 팀원 역활
-Project Github repository
-Project 발표자료 업로드
+* Team name : Project Name
+* Project 소개
+* 팀원 및 팀원 역활
+* Project Github repository
+* Project 발표자료 업로드
 
 4) 강사가 생성한 Milestone에 생성된 Issue에 추가
 
 ### 평가방법
-assessment-criteria.pdf 참고
-제출현황
-Team: 뭔가 센스있는 팀명
-<프로젝트 요약>
+* assessment-criteria.pdf 참고
+* 제출현황
+* Team: 뭔가 센스있는 팀명
+* <프로젝트 요약>
 
 Members
 
@@ -51,4 +51,4 @@ Members
 | Project Github | https://github.com/goodsense/project_awesome.git |
 
 
-발표자료링 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
+발표자료링크 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
