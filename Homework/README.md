@@ -37,8 +37,11 @@
 
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Reviwer | 
 |-------------------------------|---------|------|------|------|---------|
+| 01 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 02 YooJaeWook(jwbastion) | n/a | - | - | - | king_wss |
+| 03 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 01 KimMinHwan(nm981212) | n/a | - | - | - | king_wss |
-| 02 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 02 YooJaeWook(jwbastion) | n/a | - | - | - | king_wss |
 | 03 HyunChangOh(OHC-SOMA) | n/a | - | - | - | king_wss |
 | 04 Kwonyujin(tina908) | n/a | - | - | - | king_wss |
 | 05 shinnahyewon(shinho804@naver.com) | n/a | - | - | - | king_wss |
