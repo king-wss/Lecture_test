@@ -39,7 +39,7 @@
 |-------------------------------|---------|------|------|------|---------|
 | 01 KimMinHwan(nm981212) | n/a | - | - | - | king_wss |
 | 02 HongGilDong(HongID) | n/a | - | - | - | king_wss |
-| 03 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 03 HyunChangOh(OHC-SOMA) | n/a | - | - | - | king_wss |
 | 04 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 05 shinnahyewon(shinho804@naver.com) | n/a | - | - | - | king_wss |
 | 06 HongGilDong(HongID) | n/a | - | - | - | king_wss |
