@@ -37,7 +37,7 @@
 
 | 영문이름 (GitHub id)           | Team No | HW#1 | HW#2 | HW#3 | Reviwer | 
 |-------------------------------|---------|------|------|------|---------|
-| 01 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 01 KimMinHwan(nm981212) | n/a | - | - | - | king_wss |
 | 02 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 03 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 04 HongGilDong(HongID) | n/a | - | - | - | king_wss |
