@@ -56,6 +56,8 @@
 | 17 JeongWooTaek(almondgood) | n/a | - | - | - | king_wss |
 | 18 ByungChan Lee(HongID) | n/a | - | - | - | king_wss |
 | 19 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 20 LeeInHyeok(LIH00) | n/a | - | - | - | king_wss |
+
 
 ### Projects
 
