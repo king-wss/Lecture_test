@@ -41,7 +41,7 @@
 | 02 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 03 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 04 HongGilDong(HongID) | n/a | - | - | - | king_wss |
-| 05 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 05 shinnahyewon(shinho804@naver.com) | n/a | - | - | - | king_wss |
 | 06 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 07 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 08 HongGilDong(HongID) | n/a | - | - | - | king_wss |
