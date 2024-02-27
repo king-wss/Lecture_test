@@ -39,7 +39,7 @@
 |-------------------------------|---------|------|------|------|---------|
 | 01 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 02 HongGilDong(HongID) | n/a | - | - | - | king_wss |
-| 03 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 03 YooJaeWook(jwbastion) | n/a | - | - | - | king_wss |
 | 04 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 05 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 06 HongGilDong(HongID) | n/a | - | - | - | king_wss |
