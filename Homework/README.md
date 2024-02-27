@@ -50,7 +50,7 @@
 | 08 subinlee(subin111)  | n/a | - | - | - | king_wss |
 | 09 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 10 HongGilDong(HongID) | n/a | - | - | - | king_wss |
-| 11 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 11 YGK        (HongID) | n/a | - | - | - | king_wss |
 | 12 Wonbin-Choi(HongID) | n/a | - | - | - | Wonbin-Choi|
 | 13 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 14 mingyu1123(HongID) | n/a | - | - | - | king_wss |
