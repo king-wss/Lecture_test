@@ -52,7 +52,7 @@
 | 10 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 11 YGK        (HongID) | n/a | - | - | - | king_wss |
 | 12 Wonbin-Choi(HongID) | n/a | - | - | - | Wonbin-Choi|
-| 13 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 13 LeeMinGyu(min9710) | n/a | - | - | - | king_wss |
 | 14 mingyu1123(HongID) | n/a | - | - | - | king_wss |
 | 15      zkf624(zkf624) | n/a | - | - | - | king_wss |
 | 16 YuKWangJae(AiGom1) | n/a | - | - | - | king_wss |
