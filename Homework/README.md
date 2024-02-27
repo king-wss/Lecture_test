@@ -43,7 +43,7 @@
 | 04 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 05 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 06 HongGilDong(HongID) | n/a | - | - | - | king_wss |
-| 07 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 07 LeeYuJin(Eugene821) | n/a | - | - | - | king_wss |
 | 08 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 09 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 10 HongGilDong(HongID) | n/a | - | - | - | king_wss |
