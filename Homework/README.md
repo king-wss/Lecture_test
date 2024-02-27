@@ -55,7 +55,7 @@
 | 16 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 17 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 18 HongGilDong(HongID) | n/a | - | - | - | king_wss |
-| 19 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 19 KuJuHeon(KuJuHeon) | n/a | - | - | - | king_wss |
 
 ### Projects
 
