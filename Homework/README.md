@@ -52,7 +52,7 @@
 | 13 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 14 mingyu1123(HongID) | n/a | - | - | - | king_wss |
 | 15      zkf624(zkf624) | n/a | - | - | - | king_wss |
-| 16 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 16 YuKWangJae(AiGom1) | n/a | - | - | - | king_wss |
 | 17 JeongWooTaek(almondgood) | n/a | - | - | - | king_wss |
 | 18 ByungChan Lee(HongID) | n/a | - | - | - | king_wss |
 | 19 HongGilDong(HongID) | n/a | - | - | - | king_wss |
