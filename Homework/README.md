@@ -52,7 +52,7 @@
 | 13 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 14 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 15 HongGilDong(HongID) | n/a | - | - | - | king_wss |
-| 16 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 16 YuKWangJae(AiGom1) | n/a | - | - | - | king_wss |
 | 17 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 18 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 19 HongGilDong(HongID) | n/a | - | - | - | king_wss |
