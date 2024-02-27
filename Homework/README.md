@@ -47,7 +47,7 @@
 | 08 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 09 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 10 HongGilDong(HongID) | n/a | - | - | - | king_wss |
-| 11 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 11 YGK        (HongID) | n/a | - | - | - | king_wss |
 | 12 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 13 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 14 HongGilDong(HongID) | n/a | - | - | - | king_wss |
