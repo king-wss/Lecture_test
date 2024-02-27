@@ -49,7 +49,7 @@
 | 10 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 11 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 12 HongGilDong(HongID) | n/a | - | - | - | king_wss |
-| 13 LeeMinGyu(min9710 ) | n/a | - | - | - | king_wss |
+| 13 LeeMinGyu(min9710) | n/a | - | - | - | king_wss |
 | 14 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 15 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 16 HongGilDong(HongID) | n/a | - | - | - | king_wss |
