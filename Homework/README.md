@@ -50,7 +50,7 @@
 | 11 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 12 Wonbin-Choi(HongID) | n/a | - | - | - | Wonbin-Choi|
 | 13 HongGilDong(HongID) | n/a | - | - | - | king_wss |
-| 14 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 14 mingyu1123(HongID) | n/a | - | - | - | king_wss |
 | 15 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 16 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 17 JeongWooTaek(almondgood) | n/a | - | - | - | king_wss |
