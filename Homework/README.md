@@ -43,19 +43,20 @@
 | 04 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 05 shinnahyewon(shinho804@naver.com) | n/a | - | - | - | king_wss |
 | 06 HongGilDong(HongID) | n/a | - | - | - | king_wss |
-| 07 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 07 LeeYuJin(Eugene821) | n/a | - | - | - | king_wss |
 | 08 subinlee(subin111)  | n/a | - | - | - | king_wss |
 | 09 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 10 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 11 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 12 Wonbin-Choi(HongID) | n/a | - | - | - | Wonbin-Choi|
 | 13 HongGilDong(HongID) | n/a | - | - | - | king_wss |
-| 14 HongGilDong(HongID) | n/a | - | - | - | king_wss |
+| 14 mingyu1123(HongID) | n/a | - | - | - | king_wss |
 | 15 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 16 HongGilDong(HongID) | n/a | - | - | - | king_wss |
 | 17 JeongWooTaek(almondgood) | n/a | - | - | - | king_wss |
-| 18 ByungChan Lee(HongID) | n/a | - | - | - | king_wss |
+| 18 ByungChan Lee(BChanGod) | n/a | - | - | - | king_wss |
 | 19 KuJuHeon(KuJuHeon) | n/a | - | - | - | king_wss |
+| 20 LeeInHyeok(LIH00) | n/a | - | - | - | king_wss |
 
 ### Projects
 
