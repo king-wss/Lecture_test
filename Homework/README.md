@@ -54,7 +54,7 @@ python demo.py -i xxx -m yyy -d zzz
 
 * (프로젝트 실행 화면 캡쳐)
 
-![./result.jpg](./result.jpg)
+
 
 ## Appendix
 
