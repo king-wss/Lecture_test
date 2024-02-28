@@ -202,7 +202,7 @@ omz_downloader --list models.lst
 ```sh
 omz_converter --list models.lst
 ```
-```sh
+
 ``` sh
 python3 monodepth_demo.py -d GPU -i 0 -m public/midasnet/FP16/midasnet.xml
 ``` 
