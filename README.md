@@ -95,7 +95,7 @@ index 8a205fc64..fefcb1463 100644
 4. Build c++ demo samples
 ```sh
 cd demos
-source /opt/intel/openvino_2023.1.0/setupvars.sh
+source /opt/intel/openvino_2023.3.0/setupvars.sh
 ./build_demos.sh -DENABLE_PYTHON=y --build_dir=./
 ```
 * Expected reaults after build
