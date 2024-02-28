@@ -190,6 +190,15 @@ omz_converter --list models.lst
 gaze_estimation_demo -d CPU -i 0 -m intel/gaze-estimation-adas-0002/FP16/gaze-estimation-adas-0002.xml -m_fd intel/face-detection-adas-0001/FP16/face-detection-adas-0001.xml -m_hp intel/head-pose-estimation-adas-0001/FP16/head-pose-estimation-adas-0001.xml -m_lm intel/facial-landmarks-35-adas-0002/FP16/facial-landmarks-35-adas-0002.xml -m_es public/open-closed-eye-0001/FP16/open-closed-eye-0001.xml 
 ```
 ### Practice #4 - monodepth_demo
+``` omz convert
+pip install tensorflow
+pip install torch
+pip install onnx
+pip install torchvision
+```
+``` sh
+python3 monodepth_demo.py -d GPU -i 0 -m public/midasnet/FP16/midasnet.xml
+``` 
 
 ### Practice #5 - object_detection_demo
 
