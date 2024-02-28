@@ -74,6 +74,10 @@ python3 -m venv omz_venv
 source omz_venv/bin/activate
 python3 -m pip install --upgrade pip
 pip install openvino openvino-dev
+pip install tensorflow
+pip install torch
+pip install onnx
+pip install torchvision
 pip install -r demos/requirements.txt
 ```
 3. Modify code to replace GStreamer with V4L2 as webcam backbone
