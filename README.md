@@ -79,6 +79,7 @@ pip install torch
 pip install onnx
 pip install torchvision
 pip install -r demos/requirements.txt
+pip install protobuf==3.20.0
 ```
 3. Modify code to replace GStreamer with V4L2 as webcam backbone
 ```diff
