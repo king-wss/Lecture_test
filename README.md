@@ -136,6 +136,11 @@ open_model_zoo/demos$ tree intel64/Release/ -L 1
 └── text_detection_demo
 ```
 
+* Copy run files to venv/bin 
+```
+cp demos/intel64/Release/* ./<my_venv>/bin/
+```
+
 ### Practice #1 - bert_question_answering_demo
 1. Go to the demo
 ```sh
