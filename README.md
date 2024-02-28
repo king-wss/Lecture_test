@@ -176,6 +176,12 @@ interactive_face_detection_demo -i 0 \
 
 ### Practice #3 - gaze_estimation_demo
 ```sh
+omz_downloader --list models.lst
+```
+```sh
+omz_converter --list models.lst
+```
+```sh
 gaze_estimation_demo -d CPU -i 0 -m intel/gaze-estimation-adas-0002/FP16/gaze-estimation-adas-0002.xml -m_fd intel/face-detection-adas-0001/FP16/face-detection-adas-0001.xml -m_hp intel/head-pose-estimation-adas-0001/FP16/head-pose-estimation-adas-0001.xml -m_lm intel/facial-landmarks-35-adas-0002/FP16/facial-landmarks-35-adas-0002.xml -m_es public/open-closed-eye-0001/FP16/open-closed-eye-0001.xml 
 ```
 ### Practice #4 - monodepth_demo
