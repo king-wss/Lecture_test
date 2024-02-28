@@ -163,6 +163,11 @@ python3 bert_question_answering_demo.py \
 
 ### Practice #2 - interactive_face_detection_demo
 * Refer to the `README.md` from `open_model_zoo/demos/interactive_face_detection_demo/cpp`
+
+```sh
+omz_downloader --list models.lst
+```
+
 ```sh
 interactive_face_detection_demo -i 0 \
     -m intel/face-detection-adas-0001/FP16/face-detection-adas-0001.xml \
