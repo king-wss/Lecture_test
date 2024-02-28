@@ -164,7 +164,7 @@ python3 bert_question_answering_demo.py \
 ### Practice #2 - interactive_face_detection_demo
 * Refer to the `README.md` from `open_model_zoo/demos/interactive_face_detection_demo/cpp`
 ```sh
-./interactive_face_detection_demo -i 0 \
+interactive_face_detection_demo -i 0 \
     -m intel/face-detection-adas-0001/FP16/face-detection-adas-0001.xml \
     --mag intel/age-gender-recognition-retail-0013/FP16/age-gender-recognition-retail-0013.xml \
     --mhp intel/head-pose-estimation-adas-0001/FP16/head-pose-estimation-adas-0001.xml \
@@ -175,7 +175,9 @@ python3 bert_question_answering_demo.py \
 ```
 
 ### Practice #3 - gaze_estimation_demo
-
+```sh
+gaze_estimation_demo -d CPU -i 0 -m intel/gaze-estimation-adas-0002/FP16/gaze-estimation-adas-0002.xml -m_fd intel/face-detection-adas-0001/FP16/face-detection-adas-0001.xml -m_hp intel/head-pose-estimation-adas-0001/FP16/head-pose-estimation-adas-0001.xml -m_lm intel/facial-landmarks-35-adas-0002/FP16/facial-landmarks-35-adas-0002.xml -m_es public/open-closed-eye-0001/FP16/open-closed-eye-0001.xml 
+```
 ### Practice #4 - monodepth_demo
 
 ### Practice #5 - object_detection_demo
