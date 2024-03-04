@@ -27,33 +27,20 @@
 * Team: 뭔가 센스있는 팀명
 * <프로젝트 요약>
 
-### 조이름 : xxxx
+### 조이름 : 열어조(OpenHAEJO)
 Members
 | Name           | Role |
 |-------------------------------|---------------------------|
-| 채치수 | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
-| 송태섭 | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
-| 정대만 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
-| 채소연 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
-| 권준호 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
-| Project Github | https://github.com/goodsense/project_awesome.git |
+| 정우택 | Project lead & Hardware Developer, 프로젝트를 총괄 및 하드웨어 기능을 구현한다. |
+| 구주헌 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
+| 권유진 | AI-Server Integration, Server와 AI를 API로 연결한다. |
+| 유광재 | Hardware-Server Integration, Server와 Hardware를 API로 연결한다. |
+| 이유진 | Server Developer, 메인 서버를 구축하고 주요 동작을 처리한다. |
+| Project Github | https://github.com/almondgood/Parking-System.git |
 
 
-발표자료링크 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
+발표자료링크 : https://docs.google.com/presentation/d/1f0T8nzyZyzef_sXEHWZz7itwPSuAShLs/edit#slide=id.p1
 
-### 조이름 : xxxx
-Members
-| Name           | Role |
-|-------------------------------|---------------------------|
-| 채치수 | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
-| 송태섭 | Project manager, 마일스톤을 생성하고 프로젝트 이슈 진행상황을 관리한다. |
-| 정대만 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
-| 채소연 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
-| 권준호 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
-| Project Github | https://github.com/goodsense/project_awesome.git |
-
-
-발표자료링크 : https://github.com/goodsense/project_aewsome/doc/slide.ppt
 
 
 # openvino
