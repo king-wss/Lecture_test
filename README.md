@@ -42,6 +42,17 @@ Members
 발표자료링크 : https://docs.google.com/presentation/d/1f0T8nzyZyzef_sXEHWZz7itwPSuAShLs/edit#slide=id.p1
 
 
+### 조이름 : The first
+Members
+| Name           | Role |
+|-------------------------------|---------------------------|
+| 김용기 | Project lead, 프로젝트 총괄|
+| 나준환 | Project manager, 모델 개발및 응용 |
+| 이민규 | Project manager, 모델 개발및 응용 |
+| 최원빈 | Project manager, 모델 개발및 응용 |
+
+ Project Github repository : https://github.com/K-DRAGON-FORCE/The-first.git
+
 
 # openvino
 
