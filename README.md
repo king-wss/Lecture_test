@@ -66,9 +66,9 @@ Members
 | 한민규 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
 | 이병찬 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
 | 신혜원 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
-| Project Github | https://github.com/LIH00/Let-s_go/edit/main/README.md |
+| Project Github | https://github.com/LIH00/protectPJ.git |
 
-발표자료링크 : https://github.com/LIH00/Let-s_go/blob/main/project/tempo.pptx
+발표자료링크 : https://github.com/LIH00/protectPJ/blob/main/protectPJ.pptx
 
 ### 조이름 : The first 
 Members
