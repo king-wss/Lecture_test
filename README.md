@@ -48,13 +48,13 @@ Members
 |-------------------------------|---------------------------|
 | 유재욱 | Project lead, 프로젝트를 총괄하고 망하면 책임진다. |
 | 김민환 | Project manager, 프로젝트 진행상황을 전체적으로 관리한다. |
-| 오현창 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
-| 이수빈 | AI modeling, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다. |
-| 이재경 | UI design, 사용자 인터페이스를 정의하고 구현한다. |
+| 오현창 | Hardware manager, Hardware의 전체적인 동작을 관리한다. |
+| 이수빈 | Server Manager, 메인 서버를 구축하고 데이터를 관리한다. |
+| 이재경 | AI Director, 원하는 결과가 나오도록 AI model을 선택, data 수집, training을 수행한다.|
 | Project Github | https://github.com/jwbastion/DOWAZO.git |
 
 
-발표자료링크 : https://github.com/jwbastion/DOWAZO/blob/main/DOWAZO.pptx
+발표자료링크 : https://github.com/jwbastion/DOWAZO/blob/main/PPT/DOWAZO.pptx
 
 
 ### 조이름 : 어린이 보호해줘
