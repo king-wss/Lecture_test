@@ -53,7 +53,7 @@ Members
 | 최원빈 | Project manager, 모델 개발및 응용 |
 | Project Github | https://github.com/K-DRAGON-FORCE/The-first.git |
 
-
+발표자료 링크 :https://github.com/K-DRAGON-FORCE/The-first/blob/main/The_first_presentation.pptx
 # openvino
 
 ## Open Model Zoo
