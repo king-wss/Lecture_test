@@ -57,7 +57,7 @@ Members
 발표자료링크 : https://github.com/jwbastion/DOWAZO/blob/main/PPT/DOWAZO.pptx
 
 
-### 조이름 : 어린이 보호해줘
+### 조이름 : 어린이 보호해조
 Members
 | Name           | Role |
 |-------------------------------|---------------------------|
@@ -68,7 +68,7 @@ Members
 | 신혜원 | Architect, 프로젝트의 component를 구성하고 상위 디자인을 책임진다. |
 | Project Github | https://github.com/LIH00/protectPJ.git |
 
-발표자료링크 : https://github.com/LIH00/protectPJ/blob/main/protectPJ.pptx
+발표자료링크 : https://github.com/LIH00/protectPJ/blob/main/protectPJ.pdf
 
 ### 조이름 : The first 
 Members
