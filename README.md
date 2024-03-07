@@ -54,7 +54,7 @@ Members
 | Project Github | https://github.com/jwbastion/DOWAZO.git |
 
 
-발표자료링크 : https://github.com/jwbastion/DOWAZO/blob/main/DOWAZO.pptx
+발표자료링크 : https://github.com/jwbastion/DOWAZO/blob/main/PPT/DOWAZO.pptx
 
 
 ### 조이름 : 어린이 보호해줘
